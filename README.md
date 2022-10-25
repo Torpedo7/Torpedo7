@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Torpedo7
+- 👀 I’m interested in most things, though I'll start with automating property analysis
+- 🌱 I’m currently learning all of it.. (SQL, Python, PowerBI)
